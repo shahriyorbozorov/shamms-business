@@ -8,7 +8,7 @@ namespace ShammsBusiness.Domain.Models
 {
     public class Customer
     {
-        public string FirsName { get; set; }
+        public string FirsName { get; set; } = String.Empty;
         public string LastName { get; set; }
         public DateOnly BirthDate { get; set; }
         public string PhoneNumber { get; set; }
