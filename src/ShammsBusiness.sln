@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShammsBusinessWebApp", "Sha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShammsBusiness.Domain", "ShammsBusiness.Domain\ShammsBusiness.Domain.csproj", "{EE6A5E44-EDD7-4A37-A873-C772E1C3BA9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShammsBusiness.Service", "ShammsBusiness.Serves\ShammsBusiness.Service.csproj", "{22A326B1-7C26-4FF7-95CE-397CF733963E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShammsBusiness.Data", "ShammsBusiness.Data\ShammsBusiness.Data.csproj", "{D55F0EFB-7F31-4572-A66D-354CABAEBCB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EE6A5E44-EDD7-4A37-A873-C772E1C3BA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6A5E44-EDD7-4A37-A873-C772E1C3BA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6A5E44-EDD7-4A37-A873-C772E1C3BA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A326B1-7C26-4FF7-95CE-397CF733963E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A326B1-7C26-4FF7-95CE-397CF733963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A326B1-7C26-4FF7-95CE-397CF733963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A326B1-7C26-4FF7-95CE-397CF733963E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55F0EFB-7F31-4572-A66D-354CABAEBCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55F0EFB-7F31-4572-A66D-354CABAEBCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55F0EFB-7F31-4572-A66D-354CABAEBCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55F0EFB-7F31-4572-A66D-354CABAEBCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
